@@ -1,4 +1,4 @@
-ProfessioNest
+<h1>ProfessioNest</h1>
 ProfessioNest is a centralized platform that helps learners tailor their study habits and resource discovery based on their career goals. By organizing study materials by field and skill, it empowers users to focus on their aspirations without wasting time searching for relevant tools.
 
 📑 Table of Contents
